@@ -1,0 +1,15 @@
+nav ul {
+    text-align: center;
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    background-color: #000;
+    color: #fff;
+    padding: 2rem 2rem;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+
+}
